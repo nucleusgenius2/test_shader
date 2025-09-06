@@ -61,12 +61,6 @@ BuildPic = "Hover Factory.png",
     buildoptions =
     {
        [[hunter]],
-       [[swamper]],
-       [[shell]],
-       [[typhoon-t]],
-       [[paladin]],
-       [[zenith_9]],
-
 	},
 	--Hitbox
     collisionVolumeOffsets    =  "0 0 -7.5",
