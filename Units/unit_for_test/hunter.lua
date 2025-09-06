@@ -120,7 +120,7 @@ local unitDef  =  {
         attack_1_min_radius = 0,
 
         --гусеницы
-        normaltex = "UnitTextures/Hunter3.dds",
+        normaltex = "UnitTextures/bitmaps/Normals.dds",
         trackshader = 'trackShader',
         tankvel = 1.0,
         turnrate = 0.0,
