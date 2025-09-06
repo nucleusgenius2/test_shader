@@ -97,6 +97,9 @@ local unitDef  =  {
    --pushResistant = 1,
 
     customParams = {
+         uniformbin = "treadsexample",
+       normaltex = "UnitTextures/bitmaps/Normals.dds",
+
         --едф стройка
         edfunit = 1,
 
@@ -120,11 +123,11 @@ local unitDef  =  {
         attack_1_min_radius = 0,
 
         --гусеницы
-        normaltex = "UnitTextures/bitmaps/Normals.dds",
-        trackshader = 'trackShader',
-        tankvel = 1.0,
-        turnrate = 0.0,
-        trackwidth = 0.1, --процент от верха текстуры
+
+       -- trackshader = 'trackShader',
+       -- tankvel = 1.0,
+       -- turnrate = 0.0,
+        --trackwidth = 0.1, --процент от верха текстуры
 
         loc_key_name = "name_hunter",
         loc_key_description = "description_hunter",
